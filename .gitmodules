@@ -1,0 +1,4 @@
+[submodule "equilibrium"]
+	path = equilibrium
+	url = https://github.com/petpet-distro/equilibrium
+
